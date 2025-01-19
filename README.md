@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 👋
  
 ## 🚀 About Me
-Hello! I’m Bala, a dedicated DevOps enthusiast on a mission to deepen my expertise in AWS and other cutting-edge technologies. With a passion for continuous improvement and innovation, I’m eager to master DevOps practices and contribute to impactful projects.
+Hello! I’m Milton, a dedicated DevOps enthusiast on a mission to deepen my expertise in AWS and other cutting-edge technologies. With a passion for continuous improvement and innovation, I’m eager to master DevOps practices and contribute to impactful projects.
  
 ## 🌟 Current Focus
 - **Learning:** Fullstack DevOps at Sloopstash
